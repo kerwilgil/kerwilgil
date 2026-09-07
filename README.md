@@ -27,14 +27,6 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 ## 🚀 Proyectos destacados
 
-### 🤖 VIERNES
-**Agente personal de IA para Windows** — Voz, navegador, escritorio, visión y razonamiento con arquitectura de seguridad *observe → prepare → permission → act → verify*.
-
-- **Stack:** Python, Playwright, UI Automation, Supertonic TTS, Vosk, NVIDIA NIM
-- **Seguridad:** 1,756 tests, invariantes de permiso fresco por mutación, TOCTOU guards
-- **Estado:** v1.0 validado físicamente (Blocks A–D)
-- **Repo:** [`kerwilgil/viernes-agent`](https://github.com/kerwilgil/viernes-agent)
-
 ### 📡 TRAZIP
 **Plataforma de Network Intelligence** — Analizador multiplataforma de paquetes, BGP/RPKI, VoIP, diagnósticos y monitoreo. Local-first, sin telemetría.
 
@@ -70,6 +62,9 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 ---
 
 ## 🧪 Próximamente
+
+### 🤖 VIERNES
+Agente personal de IA para Windows (voz, navegador, escritorio, visión). En validación final antes de release público.
 
 ### 🔴 MARTE Agent
 Nuevo agente actualmente en desarrollo.
@@ -130,7 +125,6 @@ Nuevo agente actualmente en desarrollo.
 ## 🔗 Enlaces relevantes
 
 - **GitHub:** [@kerwilgil](https://github.com/kerwilgil)
-- **VIERNES Docs:** [Security Model](https://github.com/kerwilgil/viernes-agent/blob/main/docs/SECURITY_MODEL.md) · [Architecture](https://github.com/kerwilgil/viernes-agent/blob/main/docs/architecture/VIERNES_1_0_ARCHITECTURE.md)
 - **TRAZIP Releases:** [Latest binaries](https://github.com/kerwilgil/trazip-releases/releases)
 - **ARCLUME Docs:** [Architecture](https://github.com/kerwilgil/arclume/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/kerwilgil/arclume/blob/main/docs/SECURITY.md)
 - **PLAYLIST AI:** [Releases](https://github.com/kerwilgil/PlaylistAI/releases) · [README](https://github.com/kerwilgil/PlaylistAI#readme)
@@ -142,7 +136,6 @@ Nuevo agente actualmente en desarrollo.
 
 | Repo | Descripción | Prioridad |
 |------|-------------|-----------|
-| [`viernes-agent`](https://github.com/kerwilgil/viernes-agent) | Agente IA personal Windows | ⭐⭐⭐ |
 | [`trazip`](https://github.com/kerwilgil/trazip) | Network Intelligence toolkit | ⭐⭐⭐ |
 | [`arclume`](https://github.com/kerwilgil/arclume) | Presentaciones trazables | ⭐⭐⭐ |
 | [`moneta-lite`](https://github.com/kerwilgil/moneta-lite) | Finanzas personales Django | ⭐⭐ |
