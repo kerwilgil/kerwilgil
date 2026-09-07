@@ -103,6 +103,7 @@ Nuevo agente actualmente en desarrollo.
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
 ![MikroTik](https://img.shields.io/badge/MikroTik-0096D6?logo=mikrotik&logoColor=white&style=flat)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white&style=flat)
 
 ### CI/CD & Automatización
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
