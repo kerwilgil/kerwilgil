@@ -113,8 +113,8 @@ Nuevo agente actualmente en desarrollo.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerwilgil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerwilgil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kerwilgil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerwilgil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" height="160" />
 </p>
 
 ---
