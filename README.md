@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hola, soy Kerwil Gil
+# 👋🏻 Hola, soy Kerwil Gil
 
 **Ing. Telecomunicaciones · Lic. Gerencia de Comercio Electrónico · Master AI**
 
@@ -112,13 +112,12 @@ Nuevo agente actualmente en desarrollo.
 
 ## 📊 GitHub Analytics
 
-> Las tarjetas dinámicas dependen de servicios externos que a veces no están disponibles. Para estadísticas completas y actualizadas, visita directamente el perfil.
-
 <p align="center">
-  <a href="https://github.com/kerwilgil">
-    <img src="https://img.shields.io/badge/Ver_estadísticas_en_GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Profile Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kerwilgil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerwilgil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="160" />
 </p>
+
+> *Nota: Las tarjetas dependen de un servicio externo (vercel.app) que puede estar temporalmente no disponible. Si no se visualizan, el servicio está caído y se restaurará automáticamente.*
 
 ---
 
