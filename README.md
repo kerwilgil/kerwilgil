@@ -100,6 +100,7 @@ Nuevo agente actualmente en desarrollo.
 ### Networking & Sistemas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
 ![MikroTik](https://img.shields.io/badge/MikroTik-0096D6?logo=mikrotik&logoColor=white&style=flat)
 
@@ -114,10 +115,6 @@ Nuevo agente actualmente en desarrollo.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kerwilgil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerwilgil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerwilgil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
 </p>
 
 ---
