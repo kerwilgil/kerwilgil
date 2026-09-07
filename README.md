@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Kerwil Gil — AI Engineering, Software & Systems, Automation, Networking, SaaS, OSINT" width="100%" />
+  <img src="assets/banner.png" alt="Kerwil Gil — Ing. Telecomunicaciones, Lic. Gerencia de Comercio Electrónico, Master AI, Software & Systems, Automation, Networking, SaaS, OSINT" width="100%" />
 </p>
 
 ---
 
 # 👋 Hola, soy Kerwil Gil
 
-**AI Engineering · Software & Systems Engineering · Automation · Networking & Infrastructure · SaaS · OSINT / Network Intelligence**
+**Ing. Telecomunicaciones · Lic. Gerencia de Comercio Electrónico · Master AI**
 
 Construyo software, agentes de IA, infraestructura y automatización. Me especializo en sistemas locales-first, herramientas de diagnóstico de red, plataformas SaaS multi-tenant y soluciones de inteligencia asistida para conocimiento y contenido.
 
