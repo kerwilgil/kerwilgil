@@ -25,55 +25,64 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos públicos
 
-### 📡 TRAZIP
-**Plataforma de Network Intelligence** — Analizador multiplataforma de paquetes, BGP/RPKI, VoIP, diagnósticos y monitoreo. Local-first, sin telemetría.
+### 🎵 [PlaylistAI](https://github.com/kerwilgil/PlaylistAI)
+**Generador y analizador de playlists para Spotify mediante IA.** Convierte ideas, estados de ánimo o conceptos en listas de reproducción con canciones verificadas contra el catálogo real.
 
-- **Stack:** Go, Wails, React, WebView2/WKWebView, libpcap/Npcap
-- **Capacidades:** Live capture, flow engine, BGP Topology, RPKI validation, MTR, LAN Explorer
-- **Estado:** v1.4.0 estable (Windows/macOS ARM64)
-- **Repo:** [`kerwilgil/trazip`](https://github.com/kerwilgil/trazip) · **Releases:** [`trazip-releases`](https://github.com/kerwilgil/trazip-releases/releases)
+- **Stack:** Python, Flask, Spotipy / Spotify Web API, múltiples proveedores de IA.
+- **Funciones:** creación y análisis de playlists, validación de artista y canción, búsquedas concurrentes y ejecución local.
+- **Versión documentada:** **v1.1.1** · [Código fuente](https://github.com/kerwilgil/PlaylistAI) · [Descargar versión 1.1.1](https://github.com/kerwilgil/PlaylistAI/releases/tag/v1.1.1).
 
-### ✨ ARCLUME
-**Sistema de inteligencia asistida** para conocimiento, narrativa, documentos, presentaciones y generación de contenido. Local-first, determinista, trazable.
+### 💰 [Moneta Lite](https://github.com/kerwilgil/moneta-lite)
+**Gestor de finanzas personales self-hosted y de código abierto.** Administra cuentas, movimientos, facturas, tarjetas y suscripciones sin depender de una plataforma SaaS.
 
-- **Stack:** TypeScript, Node.js, Playwright, Archify (diagramas), ESM only
-- **Outputs:** HTML autocontenido, PDF, PPTX editable — con recibos criptográficos
-- **Estado:** Release candidate 1.0 (auditoría final pendiente)
-- **Repo:** [`kerwilgil/arclume`](https://github.com/kerwilgil/arclume)
+- **Stack:** Python, Django 6, SQLite / PostgreSQL.
+- **Funciones:** panel financiero, reportes, cola de importaciones con deduplicación y servidor MCP para agentes con aprobación humana.
+- **Versión documentada:** **v0.3.0** · [Código y documentación](https://github.com/kerwilgil/moneta-lite).
 
-### 💰 MONETA LITE
-**Edición ligera de Moneta** — Finanzas personales con panel de cuentas, balances, movimientos, facturas, tarjetas, suscripciones, reportes y exportaciones. Django + SQLite, local-first, sin SaaS.
+### 🎬 [DaVinci Resolve MCP](https://github.com/kerwilgil/davinci-resolve-mcp)
+**Servidor MCP para automatizar DaVinci Resolve** mediante herramientas estructuradas, sin depender de clics o automatización visual de la interfaz.
 
-- **Stack:** Django 6, Python 3.12+, SQLite, Bootstrap 5 (servidor), sin APIs externas obligatorias
-- **Características:** Panel con cuentas/balances/movimientos, facturación, reportes PDF/CSV, tema claro/oscuro
-- **Estado:** Estable, uso personal / evaluación
-- **Repo:** [`kerwilgil/moneta-lite`](https://github.com/kerwilgil/moneta-lite)
+- **Stack:** Python, Model Context Protocol (MCP), API de DaVinci Resolve.
+- **Funciones:** inspección de proyectos, edición de timelines, gestión de medios, operaciones de color y renders.
+- **Enfoque:** ejecución local, separación de lectura/escritura y pruebas automatizadas.
 
-### 🎵 PLAYLIST AI
-**Creación de playlists de Spotify con IA** — Describe un mood, idea o concepto y genera una playlist real con tracks verificados.
+### 🧹 [Cowork Session Cleaner](https://github.com/kerwilgil/cowork-session-cleaner)
+**Utilidad multiplataforma para administrar sesiones locales de Claude Cowork.**
 
-- **Stack:** Python 3.12+, Flask, Spotipy (Spotify Web API), multi-provider AI (Claude, OpenAI, NVIDIA, local)
-- **Características:** Verificación real contra catálogo Spotify, fallbacks inteligentes, soporte nativo Windows/macOS, local-first
-- **Estado:** v1.1.0 released
-- **Repo:** [`kerwilgil/PlaylistAI`](https://github.com/kerwilgil/PlaylistAI)
+- **Stack:** Python.
+- **Funciones:** listar, archivar, restaurar y eliminar sesiones; vista previa de cambios (*dry-run*).
+- **Plataformas:** Windows y macOS; funciona sin dependencias externas.
 
 ---
 
-## 🧪 Próximamente
+## 🤝 Contribuciones a proyectos open source
 
-### 🤖 VIERNES
-Agente personal de IA para Windows (voz, navegador, escritorio, visión). En validación final antes de release público.
+Algunos **pull requests que propuse y que fueron integrados** en proyectos de terceros:
 
-### 🔴 MARTE Agent
-Nuevo agente actualmente en desarrollo.
+| Proyecto | Contribución | Resultado |
+|---|---|---|
+| **OpenMausBot** | [#2405 — Portapapeles fiable en escritorio local y remoto](https://github.com/milind-soni/OpenMausBot/pull/2405) | ✅ Merged |
+| **Argos-Auditor** | [#1 — Correcciones a Codex, referencias de skills y seguridad](https://github.com/joseabrer/Argos-Auditor/pull/1) | ✅ Merged |
+| **Argos-Auditor** | [#2 — Detección de Claude Code y límite de tamaño del prompt](https://github.com/joseabrer/Argos-Auditor/pull/2) | ✅ Merged |
+
+[Ver todos mis pull requests](https://github.com/search?q=is%3Apr+author%3Akerwilgil&type=pullrequests) · [Ver PR en los que he participado](https://github.com/search?q=is%3Apr+involves%3Akerwilgil&type=pullrequests)
+
+---
+
+## 🧪 Proyectos en desarrollo y privados
+
+- **🔴 MARTE:** agente y framework de IA en desarrollo. **No se presenta como producto terminado ni release público estable.**
+- **🤖 VIERNES:** agente personal de IA para automatización e interacción con el equipo. **Proyecto de uso privado; sin distribución pública de la versión 1.0.**
+
+Estos proyectos se mencionan únicamente como líneas de trabajo; no hay enlaces a entregas pendientes.
 
 ---
 
 ## 🛠️ Stack tecnológico
 
-> Basado en uso real en los proyectos arriba. No listo herramientas que no uso.
+> Tecnologías con las que trabajo. No todas forman parte de los proyectos públicos destacados.
 
 ### Lenguajes & Runtimes
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -86,7 +95,6 @@ Nuevo agente actualmente en desarrollo.
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Wails](https://img.shields.io/badge/Wails-000000?logo=wails&logoColor=white&style=flat)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 
@@ -122,27 +130,6 @@ Nuevo agente actualmente en desarrollo.
 
 ---
 
-## 🔗 Enlaces relevantes
-
-- **GitHub:** [@kerwilgil](https://github.com/kerwilgil)
-- **TRAZIP Releases:** [Latest binaries](https://github.com/kerwilgil/trazip-releases/releases)
-- **ARCLUME Docs:** [Architecture](https://github.com/kerwilgil/arclume/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/kerwilgil/arclume/blob/main/docs/SECURITY.md)
-- **PLAYLIST AI:** [Releases](https://github.com/kerwilgil/PlaylistAI/releases) · [README](https://github.com/kerwilgil/PlaylistAI#readme)
-- **MONETA LITE:** [README](https://github.com/kerwilgil/moneta-lite#readme) · [Quick Start](https://github.com/kerwilgil/moneta-lite#inicicio-r%C3%A1pido-local)
-
----
-
-## 📌 Repos fijados recomendados
-
-| Repo | Descripción | Prioridad |
-|------|-------------|-----------|
-| [`trazip`](https://github.com/kerwilgil/trazip) | Network Intelligence toolkit | ⭐⭐⭐ |
-| [`arclume`](https://github.com/kerwilgil/arclume) | Presentaciones trazables | ⭐⭐⭐ |
-| [`moneta-lite`](https://github.com/kerwilgil/moneta-lite) | Finanzas personales Django | ⭐⭐ |
-| [`PlaylistAI`](https://github.com/kerwilgil/PlaylistAI) | Playlists Spotify con IA | ⭐⭐ |
-
----
-
 <p align="center">
-  <sub>Diseño dark/minimalista · Sin badges innecesarios · 100% local-first philosophy</sub>
+  <sub>Software práctico · IA, automatización, redes e infraestructura · Local-first cuando aporta privacidad y control</sub>
 </p>
