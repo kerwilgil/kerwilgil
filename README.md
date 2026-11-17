@@ -27,6 +27,20 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 ## 🚀 Proyectos públicos
 
+### 🎬 [Snipra Video](https://github.com/kerwilgil/snipra-video)
+**Editor y procesador de video local-first.** Convierte material en clips, subtítulos y composiciones, con análisis asistido por IA opcional y extensión para navegadores Chromium.
+
+- **Stack:** Python, FastAPI, React, TypeScript, FFmpeg y SQLite.
+- **Funciones:** ingesta de medios, procesamiento y exportación de clips, catálogo dinámico NVIDIA NIM y flujos de trabajo locales.
+- **Estado:** **código fuente público** · Sin release binaria oficial por ahora · [Repositorio y capturas](https://github.com/kerwilgil/snipra-video) · [Caso de estudio de IA](https://github.com/kerwilgil/snipra-video/blob/main/docs/AI_CASE_STUDY.md).
+
+### 📡 [TRAZIP](https://github.com/kerwilgil/trazip-network)
+**Herramienta de escritorio para diagnóstico y análisis defensivo de redes y VoIP.** Integra análisis de tráfico, capturas PCAP, inteligencia de red y herramientas para investigación técnica.
+
+- **Stack:** Go, Wails, React y TypeScript.
+- **Funciones:** conectividad, PCAP/PCAPNG, DNS, BGP, OSINT y análisis SIP/RTP, según capacidades de la plataforma.
+- **Estado:** **repositorio público de distribución y documentación**, con logo y capturas · **v1.0.0 para Windows en preparación**; todavía sin release estable publicada · [Ver TRAZIP](https://github.com/kerwilgil/trazip-network).
+
 ### 🎵 [PlaylistAI](https://github.com/kerwilgil/PlaylistAI)
 **Generador y analizador de playlists para Spotify mediante IA.** Convierte ideas, estados de ánimo o conceptos en listas de reproducción con canciones verificadas contra el catálogo real.
 
@@ -48,13 +62,6 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 - **Funciones:** inspección de proyectos, edición de timelines, gestión de medios, operaciones de color y renders.
 - **Enfoque:** ejecución local, separación de lectura/escritura y pruebas automatizadas.
 
-### 🧹 [Cowork Session Cleaner](https://github.com/kerwilgil/cowork-session-cleaner)
-**Utilidad multiplataforma para administrar sesiones locales de Claude Cowork.**
-
-- **Stack:** Python.
-- **Funciones:** listar, archivar, restaurar y eliminar sesiones; vista previa de cambios (*dry-run*).
-- **Plataformas:** Windows y macOS; funciona sin dependencias externas.
-
 ---
 
 ## 🤝 Contribuciones a proyectos open source
@@ -71,12 +78,9 @@ Algunos **pull requests que propuse y que fueron integrados** en proyectos de te
 
 ---
 
-## 🧪 Proyectos en desarrollo y privados
+## 🧪 Proyecto pendiente
 
-- **🔴 MARTE:** agente y framework de IA en desarrollo. **No se presenta como producto terminado ni release público estable.**
-- **🤖 VIERNES:** agente personal de IA para automatización e interacción con el equipo. **Proyecto de uso privado; sin distribución pública de la versión 1.0.**
-
-Estos proyectos se mencionan únicamente como líneas de trabajo; no hay enlaces a entregas pendientes.
+- **🔴 MARTE:** agente y framework de IA en desarrollo. No se presenta como producto terminado ni como release pública estable.
 
 ---
 
