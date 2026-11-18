@@ -76,6 +76,12 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 ---
 
+## ☕ Apoya el desarrollo open source
+
+Si alguna de estas herramientas te resulta útil, puedes apoyar voluntariamente su mantenimiento y nuevas mejoras mediante **[GitHub Sponsors](https://github.com/sponsors/kerwilgil)**. El código público seguirá disponible independientemente de las aportaciones.
+
+---
+
 ## 🤝 Contribuciones a proyectos open source
 
 Algunos **pull requests que propuse y que fueron integrados** en proyectos de terceros:
