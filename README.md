@@ -32,7 +32,9 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 - **Stack:** Python, FastAPI, React, TypeScript, FFmpeg y SQLite.
 - **Funciones:** ingesta de medios, procesamiento y exportación de clips, catálogo dinámico NVIDIA NIM y flujos de trabajo locales.
-- **Estado:** **código fuente público** · Sin release binaria oficial por ahora · [Repositorio y capturas](https://github.com/kerwilgil/snipra-video) · [Caso de estudio de IA](https://github.com/kerwilgil/snipra-video/blob/main/docs/AI_CASE_STUDY.md).
+- **Última versión estable publicada:** **v1.0.0 para macOS Apple Silicon (ARM64)** · [Release oficial](https://github.com/kerwilgil/snipra-video/releases/tag/v1.0.0) · [Descargar Snipra.app (ZIP)](https://github.com/kerwilgil/snipra-video/releases/download/v1.0.0/snipra-macos-1.0.0-arm64.zip) · [Verificar SHA-256](https://github.com/kerwilgil/snipra-video/releases/download/v1.0.0/SHA256SUMS).
+- **Instalación:** macOS 27.0 o superior, solo Apple Silicon; firma ad-hoc **sin notarización de Apple**, requiere autorización manual de Gatekeeper. Windows se utiliza desde el código fuente; sin build macOS Intel.
+- **Proyecto y documentación:** [Repositorio y capturas](https://github.com/kerwilgil/snipra-video) · [Caso de estudio de IA](https://github.com/kerwilgil/snipra-video/blob/main/docs/AI_CASE_STUDY.md).
 
 ### 📡 [TRAZIP](https://github.com/kerwilgil/trazip-network)
 **Herramienta de escritorio para diagnóstico y análisis defensivo de redes y VoIP.** Integra análisis de tráfico, capturas PCAP, inteligencia de red y herramientas para investigación técnica.
