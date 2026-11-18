@@ -39,7 +39,9 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 - **Stack:** Go, Wails, React y TypeScript.
 - **Funciones:** conectividad, PCAP/PCAPNG, DNS, BGP, OSINT y análisis SIP/RTP, según capacidades de la plataforma.
-- **Última versión estable:** **v1.0.0 (Windows x64)** · [Release oficial](https://github.com/kerwilgil/trazip-network/releases/tag/v1.0.0) · [Instalador Setup](https://github.com/kerwilgil/trazip-network/releases/download/v1.0.0/TRAZIP-1.0.0-Setup.exe) · [Portable ZIP](https://github.com/kerwilgil/trazip-network/releases/download/v1.0.0/TRAZIP-1.0.0-portable.zip).
+- **Última versión estable:** **v1.0.0** · [Release oficial](https://github.com/kerwilgil/trazip-network/releases/tag/v1.0.0).
+- **Windows x64:** [Instalador Setup](https://github.com/kerwilgil/trazip-network/releases/download/v1.0.0/TRAZIP-1.0.0-Setup.exe) · [Portable ZIP](https://github.com/kerwilgil/trazip-network/releases/download/v1.0.0/TRAZIP-1.0.0-portable.zip).
+- **macOS Apple Silicon (ARM64):** [Descargar ZIP](https://github.com/kerwilgil/trazip-network/releases/download/v1.0.0/TRAZIP-macos-1.0.0-arm64.zip) · distribución inicial sin notarización de Apple; requiere autorización manual de Gatekeeper. No hay versión Intel validada.
 
 ### 🎵 [PlaylistAI](https://github.com/kerwilgil/PlaylistAI)
 **Generador y analizador de playlists para Spotify mediante IA.** Convierte ideas, estados de ánimo o conceptos en listas de reproducción con canciones verificadas contra el catálogo real.
