@@ -66,15 +66,18 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 **Gestor de finanzas personales self-hosted y de código abierto.** Administra cuentas, movimientos, facturas, tarjetas y suscripciones sin depender de una plataforma SaaS.
 
 - **Stack:** Python, Django 6, SQLite / PostgreSQL.
-- **Funciones:** panel financiero, reportes, cola de importaciones con deduplicación y servidor MCP para agentes con aprobación humana.
-- **Versión documentada:** **v0.3.0** · [Código y documentación](https://github.com/kerwilgil/moneta-lite).
+- **Funciones:** panel financiero, reportes, cola de importaciones con deduplicación y **15 herramientas MCP** de lectura y borradores, sin aprobación automática.
+- **Seguridad:** aislamiento financiero por usuario, operaciones contables atómicas y separación física de los módulos Lite/Pro.
+- **Última release estable:** **v0.3.1** · [Release oficial](https://github.com/kerwilgil/moneta-lite/releases/tag/v0.3.1) · [Código y documentación](https://github.com/kerwilgil/moneta-lite).
 
 ### 🎬 [DaVinci Resolve MCP](https://github.com/kerwilgil/davinci-resolve-mcp)
 **Servidor MCP para automatizar DaVinci Resolve** mediante herramientas estructuradas, sin depender de clics o automatización visual de la interfaz.
 
 - **Stack:** Python, Model Context Protocol (MCP), API de DaVinci Resolve.
 - **Funciones:** inspección de proyectos, edición de timelines, gestión de medios, operaciones de color y renders.
-- **Enfoque:** ejecución local, separación de lectura/escritura y pruebas automatizadas.
+- **Enfoque:** ejecución local, autenticación del bridge y pruebas automatizadas.
+- **Alcance actual:** 36 herramientas MCP disponibles por defecto, 119 experimentales opcionales y 7 ML no disponibles.
+- **Estado:** correcciones de seguridad integradas en `main` ([PR #1](https://github.com/kerwilgil/davinci-resolve-mcp/pull/1)), CI multiplataforma 7/7. **v1.0.0 no publicada**; falta validar la versión actual con DaVinci Resolve real ([checklist](https://github.com/kerwilgil/davinci-resolve-mcp/issues/2)).
 
 ---
 
