@@ -82,9 +82,10 @@ Algunos **pull requests que propuse y que fueron integrados** en proyectos de te
 
 ---
 
-## 🧪 Proyecto pendiente
+## 🧪 Proyectos en desarrollo
 
 - **🔴 MARTE:** agente y framework de IA en desarrollo. No se presenta como producto terminado ni como release pública estable.
+- **📞 KryoSIP (En Desarrollo):** aplicación de escritorio tipo **softphone SIP/VoIP empresarial**, desarrollada con **Flutter y PJSIP**. Orientada a gestionar cuentas SIP, llamadas, contactos, historial y mensajería. Su desarrollo se centra en **Windows**; macOS e iOS son objetivos pendientes de validación. **Sin release pública**.
 
 ---
 
