@@ -52,6 +52,14 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 - **Windows x64:** [Descargar ZIP](https://github.com/kerwilgil/PlaylistAI/releases/download/v1.2.0/PlaylistAI-1.2.0-Windows-x64.zip).
 - **macOS Apple Silicon (ARM64):** [Descargar ZIP](https://github.com/kerwilgil/PlaylistAI/releases/download/v1.2.0/PlaylistAI-1.2.0-macOS-arm64.zip) · firma ad-hoc, sin notarización; requiere autorización manual de Gatekeeper. Intel no validado.
 
+### 🧵 [Threads MCP Community](https://github.com/kerwilgil/threads-mcp-community)
+**Servidor MCP open source para Meta Threads.** Permite conectar agentes de IA a la cuenta de Threads de cada usuario mediante la API oficial, con autorización humana para publicar.
+
+- **Stack:** Python, Model Context Protocol (MCP), OAuth, Threads API, SQLite y cifrado Fernet.
+- **Funciones:** lectura de perfil y publicaciones; creación de posts de texto e imágenes; aprobación previa, idempotencia, prevención de duplicados y supervisor de procesos stdio.
+- **Primera release pública:** **v0.1.0** · [Release oficial](https://github.com/kerwilgil/threads-mcp-community/releases/tag/v0.1.0) · [Instalación y documentación](https://github.com/kerwilgil/threads-mcp-community#readme).
+- **Uso independiente:** cada usuario configura su propia aplicación Meta y su cuenta; los tokens y registros permanecen locales.
+
 ### 💰 [Moneta Lite](https://github.com/kerwilgil/moneta-lite)
 **Gestor de finanzas personales self-hosted y de código abierto.** Administra cuentas, movimientos, facturas, tarjetas y suscripciones sin depender de una plataforma SaaS.
 
