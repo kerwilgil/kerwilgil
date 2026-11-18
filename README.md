@@ -48,7 +48,9 @@ Construyo software, agentes de IA, infraestructura y automatización. Me especia
 
 - **Stack:** Python, Flask, Spotipy / Spotify Web API, OpenAI y NVIDIA NIM, entre otros proveedores.
 - **Funciones:** creación y análisis de playlists, validación de canciones, catálogos dinámicos de modelos OpenAI/NVIDIA, selector accesible y ejecución local. Los tokens de Spotify se mantienen en memoria del servidor.
-- **Última versión estable:** **v1.2.0 (Windows x64)** · [Código fuente](https://github.com/kerwilgil/PlaylistAI) · [Descargar v1.2.0](https://github.com/kerwilgil/PlaylistAI/releases/tag/v1.2.0) · [ZIP Windows](https://github.com/kerwilgil/PlaylistAI/releases/download/v1.2.0/PlaylistAI-1.2.0-Windows-x64.zip).
+- **Última versión estable:** **v1.2.0** · [Código fuente](https://github.com/kerwilgil/PlaylistAI) · [Release oficial](https://github.com/kerwilgil/PlaylistAI/releases/tag/v1.2.0).
+- **Windows x64:** [Descargar ZIP](https://github.com/kerwilgil/PlaylistAI/releases/download/v1.2.0/PlaylistAI-1.2.0-Windows-x64.zip).
+- **macOS Apple Silicon (ARM64):** [Descargar ZIP](https://github.com/kerwilgil/PlaylistAI/releases/download/v1.2.0/PlaylistAI-1.2.0-macOS-arm64.zip) · firma ad-hoc, sin notarización; requiere autorización manual de Gatekeeper. Intel no validado.
 
 ### 💰 [Moneta Lite](https://github.com/kerwilgil/moneta-lite)
 **Gestor de finanzas personales self-hosted y de código abierto.** Administra cuentas, movimientos, facturas, tarjetas y suscripciones sin depender de una plataforma SaaS.
